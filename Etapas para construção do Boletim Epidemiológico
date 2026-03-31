@@ -1,0 +1,32 @@
+## Etapas para construção do Boletim Epidemiológico
+
+#1 - Tema: Sífilis Congênita
+
+#2 - Pergunta ou Produto:Boletim de Vigilância Epidemiológica Situciacional - Série Histórica de Sífilis Congênita no Distrito Federal (2015 a 2024)
+       + Análise exploratória descritiva (variaveis sócio demográficas, clínicas e de evolução)
+
+#3 - Referências
+   3.1 - Modelos -> boletins que servem de inspiração
+   3.2 - Bibliografia e Linkografia -> guias, manuais, reposítório
+
+#4 - Busca de Dados
+   4.1 - Aquisição
+   4.2 - Armazenagem
+   4.3 - Inspecionar as bases (raw)[do jeito que ela ta voce inspeciona, roda um script para saber como ela tá]
+   4.4 - Tratamento das bases (conversão)
+   4.5 - Inspecionar os dados
+   4.6 - Tratamento dos dados
+   4.7 - Análises descritivas ou preditivas 
+
+#5 - Interpretações
+   5.1 - Análises diagnósticas
+   5.2 - Análises prescritivas
+
+#6 - Montagem do Boletim
+   6.1 - Sessões
+   6.2 - Summaries
+   6.3 - Gráficos (visuais)
+   6.4 - Textos
+   6.5 - Exportação
+
+#7 - Publicação e Disseminação
