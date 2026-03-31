@@ -7,11 +7,16 @@
 
 #3 - Referências
    3.1 - Modelos -> boletins que servem de inspiração
+         * Qual o público-alvo? - Realizar a construção de um Avatar (pessoa/perfil ideal para quem estou construindo este produto): Quem? Profissionais enfermeiros entre 25 a 50 anos da ABS que trabalham com ISTs em UBS e UPAS 
+         * Selecionar os modelos que serviram de alimento
    3.2 - Bibliografia e Linkografia -> guias, manuais, reposítório
+         * Conteúdo dos boletins técnicos
+         * Guias oficiais (OPAS/OMS,SVSA, Secretarias, RIPSA)
+         * Artigo ou teses/dissertações
 
 #4 - Busca de Dados
-   4.1 - Aquisição
-   4.2 - Armazenagem
+   4.1 - Aquisição -> baixados, apis (DEMAS), solicitação para um fornecedor (LAI)
+   4.2 - Armazenagem ->
    4.3 - Inspecionar as bases (raw)[do jeito que ela ta voce inspeciona, roda um script para saber como ela tá]
    4.4 - Tratamento das bases (conversão)
    4.5 - Inspecionar os dados
