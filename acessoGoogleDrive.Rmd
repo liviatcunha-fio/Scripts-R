@@ -1,1 +1,7 @@
-
+# Conexão do Google Drive no Rstudio
+  Login - usuario;senha;api Google drive
+  Caminho da pasta (path) - (pasta de trabalho) e (link compartilhamento)
+  Chamada da pasta/arquivo
+O script deve acessar a pasta com privilégios de editor e esse acesso deve ser permanente.
+Acessar o CRUD - leitura do arquivo; criar; editar; deletar;
+Requisitos/Regras - Acessar a nminha pasta individual; script esteja em linguagem R; acesso deve ser completo (editor)
